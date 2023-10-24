@@ -29,7 +29,7 @@ html{
 section{
     width: 100%;
     height: 100vh;
-    background-image: url(image/bg1.png);
+    background-image: url(bg1.png);
     background-size: cover;
     background-position: center;
 }
@@ -573,7 +573,7 @@ section .main .button:hover i{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-image: url(image/loging_bg.png);
+    background-image: url(loging_bg.png);
     /* background-size: 200px; */
     background-size: cover;
     background-position: center;
